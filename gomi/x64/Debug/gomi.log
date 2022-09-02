@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\kawa6\source\repos\gomi\gomi\main.c(26,14): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\kawa6\source\repos\gomi\gomi\main.c(56,5): warning C4013: 関数 'getch' は定義されていません。int 型の値を返す外部関数と見なします。
+C:\Users\kawa6\source\repos\gomi\gomi\main.c(13,17): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+  gomi.vcxproj -> C:\Users\kawa6\source\repos\gomi\x64\Debug\gomi.exe
